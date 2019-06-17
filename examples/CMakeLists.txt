@@ -48,4 +48,5 @@ add_subdirectory(ViscidBurgers)
 add_subdirectory(Transport1D)
 add_subdirectory(WaveEquation)
 add_subdirectory(PluckedString)
+add_subdirectory(KdV)
 
